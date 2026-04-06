@@ -19,7 +19,7 @@ function Modal() {
 
   const [message, setMessage] = useState(
     'WELCOME TO THE CLUB! Enjoy!!!!!!'
-  );
+  );   
 
   function confirm() {
     modal.current?.dismiss(input.current?.value, 'confirm');
