@@ -18,7 +18,7 @@ function Modal() {
   const input = useRef<HTMLIonInputElement>(null);
 
   const [message, setMessage] = useState(
-    'This modal example uses triggers to automatically open a modal when the button is clicked.'
+    'WELCOME TO THE CLUB! Enjoy!!!!!!'
   );
 
   function confirm() {
