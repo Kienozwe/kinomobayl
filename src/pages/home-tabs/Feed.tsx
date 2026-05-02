@@ -74,4 +74,4 @@ const Feed: React.FC = () => {
   );
 };
 
-export default Feed;
+export default Feed; 
